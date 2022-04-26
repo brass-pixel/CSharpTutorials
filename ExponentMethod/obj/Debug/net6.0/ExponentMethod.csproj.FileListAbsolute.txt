@@ -1,0 +1,15 @@
+/home/botran/Documents/CSharpTutorials/ExponentMethod/bin/Debug/net6.0/ExponentMethod
+/home/botran/Documents/CSharpTutorials/ExponentMethod/bin/Debug/net6.0/ExponentMethod.deps.json
+/home/botran/Documents/CSharpTutorials/ExponentMethod/bin/Debug/net6.0/ExponentMethod.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/ExponentMethod/bin/Debug/net6.0/ExponentMethod.dll
+/home/botran/Documents/CSharpTutorials/ExponentMethod/bin/Debug/net6.0/ExponentMethod.pdb
+/home/botran/Documents/CSharpTutorials/ExponentMethod/obj/Debug/net6.0/ExponentMethod.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/ExponentMethod/obj/Debug/net6.0/ExponentMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/ExponentMethod/obj/Debug/net6.0/ExponentMethod.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/ExponentMethod/obj/Debug/net6.0/ExponentMethod.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/ExponentMethod/obj/Debug/net6.0/ExponentMethod.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/ExponentMethod/obj/Debug/net6.0/ExponentMethod.dll
+/home/botran/Documents/CSharpTutorials/ExponentMethod/obj/Debug/net6.0/refint/ExponentMethod.dll
+/home/botran/Documents/CSharpTutorials/ExponentMethod/obj/Debug/net6.0/ExponentMethod.pdb
+/home/botran/Documents/CSharpTutorials/ExponentMethod/obj/Debug/net6.0/ExponentMethod.genruntimeconfig.cache
+/home/botran/Documents/CSharpTutorials/ExponentMethod/obj/Debug/net6.0/ref/ExponentMethod.dll

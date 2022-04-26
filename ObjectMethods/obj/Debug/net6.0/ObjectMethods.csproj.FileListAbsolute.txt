@@ -1,0 +1,15 @@
+/home/botran/Documents/CSharpTutorials/ObjectMethods/obj/Debug/net6.0/ObjectMethods.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/ObjectMethods/obj/Debug/net6.0/ObjectMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/ObjectMethods/obj/Debug/net6.0/ObjectMethods.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/ObjectMethods/obj/Debug/net6.0/ObjectMethods.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/ObjectMethods/obj/Debug/net6.0/ObjectMethods.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/ObjectMethods/bin/Debug/net6.0/ObjectMethods
+/home/botran/Documents/CSharpTutorials/ObjectMethods/bin/Debug/net6.0/ObjectMethods.deps.json
+/home/botran/Documents/CSharpTutorials/ObjectMethods/bin/Debug/net6.0/ObjectMethods.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/ObjectMethods/bin/Debug/net6.0/ObjectMethods.dll
+/home/botran/Documents/CSharpTutorials/ObjectMethods/bin/Debug/net6.0/ObjectMethods.pdb
+/home/botran/Documents/CSharpTutorials/ObjectMethods/obj/Debug/net6.0/ObjectMethods.dll
+/home/botran/Documents/CSharpTutorials/ObjectMethods/obj/Debug/net6.0/refint/ObjectMethods.dll
+/home/botran/Documents/CSharpTutorials/ObjectMethods/obj/Debug/net6.0/ObjectMethods.pdb
+/home/botran/Documents/CSharpTutorials/ObjectMethods/obj/Debug/net6.0/ObjectMethods.genruntimeconfig.cache
+/home/botran/Documents/CSharpTutorials/ObjectMethods/obj/Debug/net6.0/ref/ObjectMethods.dll

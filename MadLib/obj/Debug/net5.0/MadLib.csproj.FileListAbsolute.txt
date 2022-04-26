@@ -1,0 +1,16 @@
+/home/botran/Documents/CSharpTutorials/MadLib/bin/Debug/net5.0/MadLib
+/home/botran/Documents/CSharpTutorials/MadLib/bin/Debug/net5.0/MadLib.deps.json
+/home/botran/Documents/CSharpTutorials/MadLib/bin/Debug/net5.0/MadLib.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/MadLib/bin/Debug/net5.0/MadLib.runtimeconfig.dev.json
+/home/botran/Documents/CSharpTutorials/MadLib/bin/Debug/net5.0/MadLib.dll
+/home/botran/Documents/CSharpTutorials/MadLib/bin/Debug/net5.0/ref/MadLib.dll
+/home/botran/Documents/CSharpTutorials/MadLib/bin/Debug/net5.0/MadLib.pdb
+/home/botran/Documents/CSharpTutorials/MadLib/obj/Debug/net5.0/MadLib.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/MadLib/obj/Debug/net5.0/MadLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/MadLib/obj/Debug/net5.0/MadLib.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/MadLib/obj/Debug/net5.0/MadLib.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/MadLib/obj/Debug/net5.0/MadLib.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/MadLib/obj/Debug/net5.0/MadLib.dll
+/home/botran/Documents/CSharpTutorials/MadLib/obj/Debug/net5.0/ref/MadLib.dll
+/home/botran/Documents/CSharpTutorials/MadLib/obj/Debug/net5.0/MadLib.pdb
+/home/botran/Documents/CSharpTutorials/MadLib/obj/Debug/net5.0/MadLib.genruntimeconfig.cache

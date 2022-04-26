@@ -1,0 +1,16 @@
+/home/botran/Documents/CSharpTutorials/Arrays/bin/Debug/net5.0/Arrays
+/home/botran/Documents/CSharpTutorials/Arrays/bin/Debug/net5.0/Arrays.deps.json
+/home/botran/Documents/CSharpTutorials/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.dev.json
+/home/botran/Documents/CSharpTutorials/Arrays/bin/Debug/net5.0/Arrays.dll
+/home/botran/Documents/CSharpTutorials/Arrays/bin/Debug/net5.0/ref/Arrays.dll
+/home/botran/Documents/CSharpTutorials/Arrays/bin/Debug/net5.0/Arrays.pdb
+/home/botran/Documents/CSharpTutorials/Arrays/obj/Debug/net5.0/Arrays.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/Arrays/obj/Debug/net5.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/Arrays/obj/Debug/net5.0/Arrays.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/Arrays/obj/Debug/net5.0/Arrays.dll
+/home/botran/Documents/CSharpTutorials/Arrays/obj/Debug/net5.0/ref/Arrays.dll
+/home/botran/Documents/CSharpTutorials/Arrays/obj/Debug/net5.0/Arrays.pdb
+/home/botran/Documents/CSharpTutorials/Arrays/obj/Debug/net5.0/Arrays.genruntimeconfig.cache

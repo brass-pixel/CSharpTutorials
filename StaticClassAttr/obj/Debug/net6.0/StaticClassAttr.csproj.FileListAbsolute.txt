@@ -1,0 +1,15 @@
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/bin/Debug/net6.0/StaticClassAttr
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/bin/Debug/net6.0/StaticClassAttr.deps.json
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/bin/Debug/net6.0/StaticClassAttr.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/bin/Debug/net6.0/StaticClassAttr.dll
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/bin/Debug/net6.0/StaticClassAttr.pdb
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/obj/Debug/net6.0/StaticClassAttr.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/obj/Debug/net6.0/StaticClassAttr.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/obj/Debug/net6.0/StaticClassAttr.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/obj/Debug/net6.0/StaticClassAttr.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/obj/Debug/net6.0/StaticClassAttr.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/obj/Debug/net6.0/StaticClassAttr.dll
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/obj/Debug/net6.0/refint/StaticClassAttr.dll
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/obj/Debug/net6.0/StaticClassAttr.pdb
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/obj/Debug/net6.0/StaticClassAttr.genruntimeconfig.cache
+/home/botran/Documents/CSharpTutorials/StaticClassAttr/obj/Debug/net6.0/ref/StaticClassAttr.dll

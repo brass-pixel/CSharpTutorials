@@ -1,0 +1,15 @@
+/home/botran/Documents/CSharpTutorials/Guess/bin/Debug/net6.0/Guess
+/home/botran/Documents/CSharpTutorials/Guess/bin/Debug/net6.0/Guess.deps.json
+/home/botran/Documents/CSharpTutorials/Guess/bin/Debug/net6.0/Guess.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/Guess/bin/Debug/net6.0/Guess.dll
+/home/botran/Documents/CSharpTutorials/Guess/bin/Debug/net6.0/Guess.pdb
+/home/botran/Documents/CSharpTutorials/Guess/obj/Debug/net6.0/Guess.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/Guess/obj/Debug/net6.0/Guess.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/Guess/obj/Debug/net6.0/Guess.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/Guess/obj/Debug/net6.0/Guess.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/Guess/obj/Debug/net6.0/Guess.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/Guess/obj/Debug/net6.0/Guess.dll
+/home/botran/Documents/CSharpTutorials/Guess/obj/Debug/net6.0/refint/Guess.dll
+/home/botran/Documents/CSharpTutorials/Guess/obj/Debug/net6.0/Guess.pdb
+/home/botran/Documents/CSharpTutorials/Guess/obj/Debug/net6.0/Guess.genruntimeconfig.cache
+/home/botran/Documents/CSharpTutorials/Guess/obj/Debug/net6.0/ref/Guess.dll

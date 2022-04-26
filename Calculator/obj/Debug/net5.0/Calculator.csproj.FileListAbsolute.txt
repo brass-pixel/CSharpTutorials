@@ -1,0 +1,16 @@
+/home/botran/Documents/CSharpTutorials/Calculator/bin/Debug/net5.0/Calculator
+/home/botran/Documents/CSharpTutorials/Calculator/bin/Debug/net5.0/Calculator.deps.json
+/home/botran/Documents/CSharpTutorials/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.dev.json
+/home/botran/Documents/CSharpTutorials/Calculator/bin/Debug/net5.0/Calculator.dll
+/home/botran/Documents/CSharpTutorials/Calculator/bin/Debug/net5.0/ref/Calculator.dll
+/home/botran/Documents/CSharpTutorials/Calculator/bin/Debug/net5.0/Calculator.pdb
+/home/botran/Documents/CSharpTutorials/Calculator/obj/Debug/net5.0/Calculator.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/Calculator/obj/Debug/net5.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/Calculator/obj/Debug/net5.0/Calculator.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/Calculator/obj/Debug/net5.0/Calculator.dll
+/home/botran/Documents/CSharpTutorials/Calculator/obj/Debug/net5.0/ref/Calculator.dll
+/home/botran/Documents/CSharpTutorials/Calculator/obj/Debug/net5.0/Calculator.pdb
+/home/botran/Documents/CSharpTutorials/Calculator/obj/Debug/net5.0/Calculator.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/botran/Documents/CSharpTutorials/IfStatementscont/bin/Debug/net5.0/IfStatementscont
+/home/botran/Documents/CSharpTutorials/IfStatementscont/bin/Debug/net5.0/IfStatementscont.deps.json
+/home/botran/Documents/CSharpTutorials/IfStatementscont/bin/Debug/net5.0/IfStatementscont.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/IfStatementscont/bin/Debug/net5.0/IfStatementscont.runtimeconfig.dev.json
+/home/botran/Documents/CSharpTutorials/IfStatementscont/bin/Debug/net5.0/IfStatementscont.dll
+/home/botran/Documents/CSharpTutorials/IfStatementscont/bin/Debug/net5.0/ref/IfStatementscont.dll
+/home/botran/Documents/CSharpTutorials/IfStatementscont/bin/Debug/net5.0/IfStatementscont.pdb
+/home/botran/Documents/CSharpTutorials/IfStatementscont/obj/Debug/net5.0/IfStatementscont.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/IfStatementscont/obj/Debug/net5.0/IfStatementscont.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/IfStatementscont/obj/Debug/net5.0/IfStatementscont.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/IfStatementscont/obj/Debug/net5.0/IfStatementscont.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/IfStatementscont/obj/Debug/net5.0/IfStatementscont.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/IfStatementscont/obj/Debug/net5.0/IfStatementscont.dll
+/home/botran/Documents/CSharpTutorials/IfStatementscont/obj/Debug/net5.0/ref/IfStatementscont.dll
+/home/botran/Documents/CSharpTutorials/IfStatementscont/obj/Debug/net5.0/IfStatementscont.pdb
+/home/botran/Documents/CSharpTutorials/IfStatementscont/obj/Debug/net5.0/IfStatementscont.genruntimeconfig.cache

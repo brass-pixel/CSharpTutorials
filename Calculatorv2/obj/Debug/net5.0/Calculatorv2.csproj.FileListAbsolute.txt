@@ -1,0 +1,16 @@
+/home/botran/Documents/CSharpTutorials/Calculatorv2/obj/Debug/net5.0/Calculatorv2.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/Calculatorv2/obj/Debug/net5.0/Calculatorv2.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/Calculatorv2/obj/Debug/net5.0/Calculatorv2.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/Calculatorv2/obj/Debug/net5.0/Calculatorv2.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/Calculatorv2/obj/Debug/net5.0/Calculatorv2.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/Calculatorv2/bin/Debug/net5.0/Calculatorv2
+/home/botran/Documents/CSharpTutorials/Calculatorv2/bin/Debug/net5.0/Calculatorv2.deps.json
+/home/botran/Documents/CSharpTutorials/Calculatorv2/bin/Debug/net5.0/Calculatorv2.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/Calculatorv2/bin/Debug/net5.0/Calculatorv2.runtimeconfig.dev.json
+/home/botran/Documents/CSharpTutorials/Calculatorv2/bin/Debug/net5.0/Calculatorv2.dll
+/home/botran/Documents/CSharpTutorials/Calculatorv2/bin/Debug/net5.0/ref/Calculatorv2.dll
+/home/botran/Documents/CSharpTutorials/Calculatorv2/bin/Debug/net5.0/Calculatorv2.pdb
+/home/botran/Documents/CSharpTutorials/Calculatorv2/obj/Debug/net5.0/Calculatorv2.dll
+/home/botran/Documents/CSharpTutorials/Calculatorv2/obj/Debug/net5.0/ref/Calculatorv2.dll
+/home/botran/Documents/CSharpTutorials/Calculatorv2/obj/Debug/net5.0/Calculatorv2.pdb
+/home/botran/Documents/CSharpTutorials/Calculatorv2/obj/Debug/net5.0/Calculatorv2.genruntimeconfig.cache

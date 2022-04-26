@@ -1,0 +1,15 @@
+/home/botran/Documents/CSharpTutorials/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/Classes/bin/Debug/net6.0/Classes
+/home/botran/Documents/CSharpTutorials/Classes/bin/Debug/net6.0/Classes.deps.json
+/home/botran/Documents/CSharpTutorials/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/Classes/bin/Debug/net6.0/Classes.dll
+/home/botran/Documents/CSharpTutorials/Classes/bin/Debug/net6.0/Classes.pdb
+/home/botran/Documents/CSharpTutorials/Classes/obj/Debug/net6.0/Classes.dll
+/home/botran/Documents/CSharpTutorials/Classes/obj/Debug/net6.0/refint/Classes.dll
+/home/botran/Documents/CSharpTutorials/Classes/obj/Debug/net6.0/Classes.pdb
+/home/botran/Documents/CSharpTutorials/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/home/botran/Documents/CSharpTutorials/Classes/obj/Debug/net6.0/ref/Classes.dll

@@ -1,0 +1,15 @@
+/home/botran/Documents/CSharpTutorials/WhileLoop/bin/Debug/net6.0/WhileLoop
+/home/botran/Documents/CSharpTutorials/WhileLoop/bin/Debug/net6.0/WhileLoop.deps.json
+/home/botran/Documents/CSharpTutorials/WhileLoop/bin/Debug/net6.0/WhileLoop.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/WhileLoop/bin/Debug/net6.0/WhileLoop.dll
+/home/botran/Documents/CSharpTutorials/WhileLoop/bin/Debug/net6.0/WhileLoop.pdb
+/home/botran/Documents/CSharpTutorials/WhileLoop/obj/Debug/net6.0/WhileLoop.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/WhileLoop/obj/Debug/net6.0/WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/WhileLoop/obj/Debug/net6.0/WhileLoop.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/WhileLoop/obj/Debug/net6.0/WhileLoop.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/WhileLoop/obj/Debug/net6.0/WhileLoop.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/WhileLoop/obj/Debug/net6.0/WhileLoop.dll
+/home/botran/Documents/CSharpTutorials/WhileLoop/obj/Debug/net6.0/refint/WhileLoop.dll
+/home/botran/Documents/CSharpTutorials/WhileLoop/obj/Debug/net6.0/WhileLoop.pdb
+/home/botran/Documents/CSharpTutorials/WhileLoop/obj/Debug/net6.0/WhileLoop.genruntimeconfig.cache
+/home/botran/Documents/CSharpTutorials/WhileLoop/obj/Debug/net6.0/ref/WhileLoop.dll

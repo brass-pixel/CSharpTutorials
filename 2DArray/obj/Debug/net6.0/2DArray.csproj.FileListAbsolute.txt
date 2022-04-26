@@ -1,0 +1,15 @@
+/home/botran/Documents/CSharpTutorials/2DArray/bin/Debug/net6.0/2DArray
+/home/botran/Documents/CSharpTutorials/2DArray/bin/Debug/net6.0/2DArray.deps.json
+/home/botran/Documents/CSharpTutorials/2DArray/bin/Debug/net6.0/2DArray.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/2DArray/bin/Debug/net6.0/2DArray.dll
+/home/botran/Documents/CSharpTutorials/2DArray/bin/Debug/net6.0/2DArray.pdb
+/home/botran/Documents/CSharpTutorials/2DArray/obj/Debug/net6.0/2DArray.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/2DArray/obj/Debug/net6.0/2DArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/2DArray/obj/Debug/net6.0/2DArray.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/2DArray/obj/Debug/net6.0/2DArray.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/2DArray/obj/Debug/net6.0/2DArray.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/2DArray/obj/Debug/net6.0/2DArray.dll
+/home/botran/Documents/CSharpTutorials/2DArray/obj/Debug/net6.0/refint/2DArray.dll
+/home/botran/Documents/CSharpTutorials/2DArray/obj/Debug/net6.0/2DArray.pdb
+/home/botran/Documents/CSharpTutorials/2DArray/obj/Debug/net6.0/2DArray.genruntimeconfig.cache
+/home/botran/Documents/CSharpTutorials/2DArray/obj/Debug/net6.0/ref/2DArray.dll

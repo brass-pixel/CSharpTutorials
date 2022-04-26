@@ -1,0 +1,15 @@
+/home/botran/Documents/CSharpTutorials/GetterSetter/bin/Debug/net6.0/GetterSetter
+/home/botran/Documents/CSharpTutorials/GetterSetter/bin/Debug/net6.0/GetterSetter.deps.json
+/home/botran/Documents/CSharpTutorials/GetterSetter/bin/Debug/net6.0/GetterSetter.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/GetterSetter/bin/Debug/net6.0/GetterSetter.dll
+/home/botran/Documents/CSharpTutorials/GetterSetter/bin/Debug/net6.0/GetterSetter.pdb
+/home/botran/Documents/CSharpTutorials/GetterSetter/obj/Debug/net6.0/GetterSetter.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/GetterSetter/obj/Debug/net6.0/GetterSetter.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/GetterSetter/obj/Debug/net6.0/GetterSetter.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/GetterSetter/obj/Debug/net6.0/GetterSetter.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/GetterSetter/obj/Debug/net6.0/GetterSetter.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/GetterSetter/obj/Debug/net6.0/GetterSetter.dll
+/home/botran/Documents/CSharpTutorials/GetterSetter/obj/Debug/net6.0/refint/GetterSetter.dll
+/home/botran/Documents/CSharpTutorials/GetterSetter/obj/Debug/net6.0/GetterSetter.pdb
+/home/botran/Documents/CSharpTutorials/GetterSetter/obj/Debug/net6.0/GetterSetter.genruntimeconfig.cache
+/home/botran/Documents/CSharpTutorials/GetterSetter/obj/Debug/net6.0/ref/GetterSetter.dll

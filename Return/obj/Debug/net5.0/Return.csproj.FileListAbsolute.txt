@@ -1,0 +1,16 @@
+/home/botran/Documents/CSharpTutorials/Return/obj/Debug/net5.0/Return.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/Return/obj/Debug/net5.0/Return.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/Return/obj/Debug/net5.0/Return.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/Return/obj/Debug/net5.0/Return.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/Return/obj/Debug/net5.0/Return.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/Return/bin/Debug/net5.0/Return
+/home/botran/Documents/CSharpTutorials/Return/bin/Debug/net5.0/Return.deps.json
+/home/botran/Documents/CSharpTutorials/Return/bin/Debug/net5.0/Return.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/Return/bin/Debug/net5.0/Return.runtimeconfig.dev.json
+/home/botran/Documents/CSharpTutorials/Return/bin/Debug/net5.0/Return.dll
+/home/botran/Documents/CSharpTutorials/Return/bin/Debug/net5.0/ref/Return.dll
+/home/botran/Documents/CSharpTutorials/Return/bin/Debug/net5.0/Return.pdb
+/home/botran/Documents/CSharpTutorials/Return/obj/Debug/net5.0/Return.dll
+/home/botran/Documents/CSharpTutorials/Return/obj/Debug/net5.0/ref/Return.dll
+/home/botran/Documents/CSharpTutorials/Return/obj/Debug/net5.0/Return.pdb
+/home/botran/Documents/CSharpTutorials/Return/obj/Debug/net5.0/Return.genruntimeconfig.cache

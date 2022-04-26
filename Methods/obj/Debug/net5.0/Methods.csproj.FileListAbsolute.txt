@@ -1,0 +1,16 @@
+/home/botran/Documents/CSharpTutorials/Methods/bin/Debug/net5.0/Methods
+/home/botran/Documents/CSharpTutorials/Methods/bin/Debug/net5.0/Methods.deps.json
+/home/botran/Documents/CSharpTutorials/Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/home/botran/Documents/CSharpTutorials/Methods/bin/Debug/net5.0/Methods.dll
+/home/botran/Documents/CSharpTutorials/Methods/bin/Debug/net5.0/ref/Methods.dll
+/home/botran/Documents/CSharpTutorials/Methods/bin/Debug/net5.0/Methods.pdb
+/home/botran/Documents/CSharpTutorials/Methods/obj/Debug/net5.0/Methods.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/Methods/obj/Debug/net5.0/Methods.dll
+/home/botran/Documents/CSharpTutorials/Methods/obj/Debug/net5.0/ref/Methods.dll
+/home/botran/Documents/CSharpTutorials/Methods/obj/Debug/net5.0/Methods.pdb
+/home/botran/Documents/CSharpTutorials/Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache

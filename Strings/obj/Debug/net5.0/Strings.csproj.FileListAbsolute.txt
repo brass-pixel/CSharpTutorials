@@ -1,0 +1,16 @@
+/home/botran/Documents/CSharpTutorials/Strings/bin/Debug/net5.0/Strings
+/home/botran/Documents/CSharpTutorials/Strings/bin/Debug/net5.0/Strings.deps.json
+/home/botran/Documents/CSharpTutorials/Strings/bin/Debug/net5.0/Strings.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/Strings/bin/Debug/net5.0/Strings.runtimeconfig.dev.json
+/home/botran/Documents/CSharpTutorials/Strings/bin/Debug/net5.0/Strings.dll
+/home/botran/Documents/CSharpTutorials/Strings/bin/Debug/net5.0/ref/Strings.dll
+/home/botran/Documents/CSharpTutorials/Strings/bin/Debug/net5.0/Strings.pdb
+/home/botran/Documents/CSharpTutorials/Strings/obj/Debug/net5.0/Strings.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/Strings/obj/Debug/net5.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/Strings/obj/Debug/net5.0/Strings.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/Strings/obj/Debug/net5.0/Strings.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/Strings/obj/Debug/net5.0/Strings.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/Strings/obj/Debug/net5.0/Strings.dll
+/home/botran/Documents/CSharpTutorials/Strings/obj/Debug/net5.0/ref/Strings.dll
+/home/botran/Documents/CSharpTutorials/Strings/obj/Debug/net5.0/Strings.pdb
+/home/botran/Documents/CSharpTutorials/Strings/obj/Debug/net5.0/Strings.genruntimeconfig.cache

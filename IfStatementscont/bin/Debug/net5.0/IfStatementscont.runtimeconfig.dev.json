@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/botran/.dotnet/store/|arch|/|tfm|",
+      "/home/botran/.nuget/packages"
+    ]
+  }
+}

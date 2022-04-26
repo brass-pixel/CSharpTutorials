@@ -1,0 +1,16 @@
+/home/botran/Documents/CSharpTutorials/IfStatements/bin/Debug/net5.0/IfStatements
+/home/botran/Documents/CSharpTutorials/IfStatements/bin/Debug/net5.0/IfStatements.deps.json
+/home/botran/Documents/CSharpTutorials/IfStatements/bin/Debug/net5.0/IfStatements.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/IfStatements/bin/Debug/net5.0/IfStatements.runtimeconfig.dev.json
+/home/botran/Documents/CSharpTutorials/IfStatements/bin/Debug/net5.0/IfStatements.dll
+/home/botran/Documents/CSharpTutorials/IfStatements/bin/Debug/net5.0/ref/IfStatements.dll
+/home/botran/Documents/CSharpTutorials/IfStatements/bin/Debug/net5.0/IfStatements.pdb
+/home/botran/Documents/CSharpTutorials/IfStatements/obj/Debug/net5.0/IfStatements.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/IfStatements/obj/Debug/net5.0/IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/IfStatements/obj/Debug/net5.0/IfStatements.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/IfStatements/obj/Debug/net5.0/IfStatements.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/IfStatements/obj/Debug/net5.0/IfStatements.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/IfStatements/obj/Debug/net5.0/IfStatements.dll
+/home/botran/Documents/CSharpTutorials/IfStatements/obj/Debug/net5.0/ref/IfStatements.dll
+/home/botran/Documents/CSharpTutorials/IfStatements/obj/Debug/net5.0/IfStatements.pdb
+/home/botran/Documents/CSharpTutorials/IfStatements/obj/Debug/net5.0/IfStatements.genruntimeconfig.cache

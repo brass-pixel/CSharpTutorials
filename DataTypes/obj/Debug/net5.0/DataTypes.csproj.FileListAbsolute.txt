@@ -1,0 +1,16 @@
+/home/botran/Documents/CSharpTutorials/DataTypes/bin/Debug/net5.0/DataTypes
+/home/botran/Documents/CSharpTutorials/DataTypes/bin/Debug/net5.0/DataTypes.deps.json
+/home/botran/Documents/CSharpTutorials/DataTypes/bin/Debug/net5.0/DataTypes.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/DataTypes/bin/Debug/net5.0/DataTypes.runtimeconfig.dev.json
+/home/botran/Documents/CSharpTutorials/DataTypes/bin/Debug/net5.0/DataTypes.dll
+/home/botran/Documents/CSharpTutorials/DataTypes/bin/Debug/net5.0/ref/DataTypes.dll
+/home/botran/Documents/CSharpTutorials/DataTypes/bin/Debug/net5.0/DataTypes.pdb
+/home/botran/Documents/CSharpTutorials/DataTypes/obj/Debug/net5.0/DataTypes.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/DataTypes/obj/Debug/net5.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/DataTypes/obj/Debug/net5.0/DataTypes.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/DataTypes/obj/Debug/net5.0/DataTypes.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/DataTypes/obj/Debug/net5.0/DataTypes.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/DataTypes/obj/Debug/net5.0/DataTypes.dll
+/home/botran/Documents/CSharpTutorials/DataTypes/obj/Debug/net5.0/ref/DataTypes.dll
+/home/botran/Documents/CSharpTutorials/DataTypes/obj/Debug/net5.0/DataTypes.pdb
+/home/botran/Documents/CSharpTutorials/DataTypes/obj/Debug/net5.0/DataTypes.genruntimeconfig.cache

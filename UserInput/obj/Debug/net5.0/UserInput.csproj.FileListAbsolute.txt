@@ -1,0 +1,16 @@
+/home/botran/Documents/CSharpTutorials/UserInput/bin/Debug/net5.0/UserInput
+/home/botran/Documents/CSharpTutorials/UserInput/bin/Debug/net5.0/UserInput.deps.json
+/home/botran/Documents/CSharpTutorials/UserInput/bin/Debug/net5.0/UserInput.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/UserInput/bin/Debug/net5.0/UserInput.runtimeconfig.dev.json
+/home/botran/Documents/CSharpTutorials/UserInput/bin/Debug/net5.0/UserInput.dll
+/home/botran/Documents/CSharpTutorials/UserInput/bin/Debug/net5.0/ref/UserInput.dll
+/home/botran/Documents/CSharpTutorials/UserInput/bin/Debug/net5.0/UserInput.pdb
+/home/botran/Documents/CSharpTutorials/UserInput/obj/Debug/net5.0/UserInput.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/UserInput/obj/Debug/net5.0/UserInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/UserInput/obj/Debug/net5.0/UserInput.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/UserInput/obj/Debug/net5.0/UserInput.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/UserInput/obj/Debug/net5.0/UserInput.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/UserInput/obj/Debug/net5.0/UserInput.dll
+/home/botran/Documents/CSharpTutorials/UserInput/obj/Debug/net5.0/ref/UserInput.dll
+/home/botran/Documents/CSharpTutorials/UserInput/obj/Debug/net5.0/UserInput.pdb
+/home/botran/Documents/CSharpTutorials/UserInput/obj/Debug/net5.0/UserInput.genruntimeconfig.cache

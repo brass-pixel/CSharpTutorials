@@ -1,0 +1,16 @@
+/home/botran/Documents/CSharpTutorials/Numbers/bin/Debug/net5.0/Numbers
+/home/botran/Documents/CSharpTutorials/Numbers/bin/Debug/net5.0/Numbers.deps.json
+/home/botran/Documents/CSharpTutorials/Numbers/bin/Debug/net5.0/Numbers.runtimeconfig.json
+/home/botran/Documents/CSharpTutorials/Numbers/bin/Debug/net5.0/Numbers.runtimeconfig.dev.json
+/home/botran/Documents/CSharpTutorials/Numbers/bin/Debug/net5.0/Numbers.dll
+/home/botran/Documents/CSharpTutorials/Numbers/bin/Debug/net5.0/ref/Numbers.dll
+/home/botran/Documents/CSharpTutorials/Numbers/bin/Debug/net5.0/Numbers.pdb
+/home/botran/Documents/CSharpTutorials/Numbers/obj/Debug/net5.0/Numbers.csproj.AssemblyReference.cache
+/home/botran/Documents/CSharpTutorials/Numbers/obj/Debug/net5.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/botran/Documents/CSharpTutorials/Numbers/obj/Debug/net5.0/Numbers.AssemblyInfoInputs.cache
+/home/botran/Documents/CSharpTutorials/Numbers/obj/Debug/net5.0/Numbers.AssemblyInfo.cs
+/home/botran/Documents/CSharpTutorials/Numbers/obj/Debug/net5.0/Numbers.csproj.CoreCompileInputs.cache
+/home/botran/Documents/CSharpTutorials/Numbers/obj/Debug/net5.0/Numbers.dll
+/home/botran/Documents/CSharpTutorials/Numbers/obj/Debug/net5.0/ref/Numbers.dll
+/home/botran/Documents/CSharpTutorials/Numbers/obj/Debug/net5.0/Numbers.pdb
+/home/botran/Documents/CSharpTutorials/Numbers/obj/Debug/net5.0/Numbers.genruntimeconfig.cache
